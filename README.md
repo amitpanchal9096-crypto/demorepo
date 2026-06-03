@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Filler
 
 #### Video Demo:  https://youtu.be/dQvtrKhTgzg
@@ -104,3 +105,8 @@ The extension has been tested on forms containing up to 100 questions with stron
 ### Conclusion
 
 Quiz Filler is a fully functional Chrome extension that demonstrates practical browser extension development and real-world AI integration. It combines asynchronous execution, structured prompt engineering, DOM analysis, and a polished user interface into a cohesive and reliable tool. The project reflects careful design decisions, attention to security, and a strong understanding of modern web extension architecture.
+=======
+# demorepo
+hehe
+asdfghjkl
+>>>>>>> 3f870a8403dbffdf7137342c645d8865ffd1ae1a
